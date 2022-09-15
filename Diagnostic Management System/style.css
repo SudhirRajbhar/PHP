@@ -1,0 +1,14 @@
+#home {
+	background-image: url('images/m7.jpg');
+	background-size:cover;
+	height:600px;width:100%;
+}
+body {
+	margin:0px;padding:0px;
+}
+html{
+	scroll-behavior: smooth;
+}
+a:hover {
+	text-decoration: none;
+}
